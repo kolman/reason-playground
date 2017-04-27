@@ -1,0 +1,7 @@
+.merlin
+/node_modules/
+
+# Reason recommends to store generated js files
+/lib/*
+!/lib/js/
+
