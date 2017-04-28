@@ -1,5 +1,6 @@
 .merlin
 /node_modules/
+/bundledOutputs
 
 # Reason recommends to store generated js files
 /lib/*

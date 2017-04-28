@@ -1,1 +1,6 @@
-{"name": "test", "sources": "src"}
+{
+    "name": "reasonable-reaction",
+    "reason" : { "react-jsx" : true},
+    "bs-dependencies": ["reason-react"],
+    "sources": "src"
+}

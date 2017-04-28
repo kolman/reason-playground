@@ -1,15 +1,22 @@
 {
-  "name": "reason",
+  "name": "reasonable-reaction",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "bsb -make-world && webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bs-platform": "^1.7.1"
+    "bs-platform": "^1.7.1",
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "reason-react": "^0.1.2"
   }
 }
