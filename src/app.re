@@ -1,4 +1,4 @@
 ReactDOMRe.renderToElementWithId 
-    <h1>(ReactRe.stringToElement "Hello World")</h1>
+    <Page message="Hello World" />
     "root";
 
